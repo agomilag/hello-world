@@ -16,4 +16,13 @@ El siguiente paso será crear una rama para que podamos trabajar los distintos a
 
 Hacemos un pequeño cambio en el archivo "README.md" y añadimos un comentario para el commit.
 
-![Creación rama](/git-hello-world-img/hello-world-02.png)
+![Modificación y commit](/git-hello-world-img/hello-world-03.png)
+
+### Solicitando un Pull Request ###
+
+Al hacer las modificaciones pertinentes, solicitamos un pull request para que se apliquen nuestros cambios. Se comprueban todas las modificaciones realizadas.
+
+![Comparación modificaciones](/git-hello-world-img/hello-world-04.png)
+
+![Solicitación Pull Request](/git-hello-world-img/hello-world-05.png)
+
