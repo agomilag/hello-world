@@ -3,6 +3,7 @@
 ## Creación repositorio ##
 
 Siguiendo el ejemplo mostrado en la guía de GitHub sobre como crear tu primer proyecto, creamos un repositorio llamado **hello-world**. Añadimos también un archivo "README.md" por defecto.
+
 ![Creación repositorio](/git-hello-world-img/hello-world-01.png)
 
 ## Creación rama ##
@@ -13,3 +14,6 @@ El siguiente paso será crear una rama para que podamos trabajar los distintos a
 
 ## Modificación archivo .md ##
 
+Hacemos un pequeño cambio en el archivo "README.md" y añadimos un comentario para el commit.
+
+![Creación rama](/git-hello-world-img/hello-world-02.png)
