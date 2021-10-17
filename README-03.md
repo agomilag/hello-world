@@ -1,12 +1,12 @@
 # Ejercicio 3 *Antoni Gomila Garcia* #
 
-## Creación repositorio ##
+### Creación repositorio ###
 
 Siguiendo el ejemplo mostrado en la guía de GitHub sobre como crear tu primer proyecto, creamos un repositorio llamado **hello-world**. Añadimos también un archivo "README.md" por defecto.
 
 ![Creación repositorio](/git-hello-world-img/hello-world-01.png)
 
-## Creación rama ##
+### Creación rama ###
 
 El siguiente paso será crear una rama para que podamos trabajar los distintos archivos sin interferir en la rama principal. En este ejemplo, llamaremos a nuestra rama secundaria **readme-edits**.
 
@@ -26,3 +26,12 @@ Al hacer las modificaciones pertinentes, solicitamos un pull request para que se
 
 ![Solicitación Pull Request](/git-hello-world-img/hello-world-05.png)
 
+### Merge y eliminación de ramas ###
+
+Una vez aplicadas las modificaciones en la rama secundaria, procedemos a aplicar los cambios en la rama principal con un **merge**.
+
+![Merge rama](/git-hello-world-img/hello-world-06.png)
+
+Cuando se ha realizado correctamente el merge, podemos eliminar la rama secundaria y todo el proyecto queda preparado.
+
+![Eliminación ramas](/git-hello-world-img/hello-world-07.png)
